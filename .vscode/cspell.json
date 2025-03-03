@@ -13,7 +13,9 @@
     ],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "Xunit"
+    ],
     "ignoreWords": [],
     "import": []
 }
